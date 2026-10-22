@@ -1,0 +1,2 @@
+# SpeakSore--AI-Powered-English-Communication-and-Fluency-Coach
+convert into 350 characters should cover everything VoiceAgent is an AI-powered English communication coach that assesses reading accuracy, speech fluency, speaking speed, pauses, and filler words in real time. It aims to support pronunciation analysis, interview simulations, personalized feedback, and progress tracking to help students improve Eng
